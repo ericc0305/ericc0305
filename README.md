@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ericc0305
+- 👀 I’m interested in creating/developing games.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on small-dev team projects.
+- 📫 How to reach me (Email: ericchen0277@gmail.com, discord: chen8406umn)
+- 😄 Pronouns: He/him.
